@@ -1,4 +1,4 @@
-## Genymotion安卓模拟器进行webview的调式代码
+## Genymotion安卓模拟器进行webview的调式代码工具
 
 #### 1. 首先下载virtualbox 配置安装环境，下载地址：
 https://www.virtualbox.org/wiki/Downloads；
@@ -9,7 +9,7 @@ https://www.virtualbox.org/wiki/Downloads；
 #### 4. 点击 accept 进行账号登陆，登陆成功后，我们可以点击上面的add按钮，添加一些设备(建议添加4.3以上的设备，
 因为自带了google浏览器，这样的话，我们使用浏览器运行网页的时候就可以打开inspect对代码进行调试)；比如如下：
 #### <img src="http://images2015.cnblogs.com/blog/561794/201607/561794-20160726234023903-920994762.png" alt="" />
-#### 我已经增加了一个Google Nexus-4.1.1 的设备模拟器；
+#### 我已经增加了一个Google Nexus 4-5.0.0 的设备模拟器；
 #### 5. 点击start按钮，我们就可以运行模拟器了；比如如下我运行完成后，打开铜板街的wap官网；如下：
 #### <img src="http://images2015.cnblogs.com/blog/561794/201607/561794-20160725232930028-1224347670.png" alt="" />
 #### 6. 在chrome浏览器运行 about:inspect 可以看到我们的设备了；如下：
