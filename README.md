@@ -1,4 +1,4 @@
-## Genymotion
+## Genymotion安装模拟器进行webview的调式代码
 
 #### 1. 首先下载virtualbox 配置安装环境，下载地址：
 https://www.virtualbox.org/wiki/Downloads；
