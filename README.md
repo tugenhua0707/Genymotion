@@ -29,3 +29,6 @@ https://www.virtualbox.org/wiki/Downloads；
 #### 如上图；我们可以在模拟器中打开铜板街app，之后我们可以使用chrome的 inspect调式网页的css样式，或者使用
 charles或者fiddler监听css文件或者js文件，进行文件替换功能替换成本地的js或者css文件；相对来说调式webview
 的方法比较方便；
+### 注意：那么在本地开发的安卓下的webview，我们可以叫安卓开发帮我们打包一个apk文件给我们，然后我们把apk拖动到
+我们的模拟器就可以进行安装了，安装成功后，我们就可以预览效果，及对webview的css和js代码使用代理软件 fiddle或者
+charles代理本地文件的代码了；
